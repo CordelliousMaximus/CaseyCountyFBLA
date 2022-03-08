@@ -118,6 +118,12 @@ h1, .h1 {
   }
 }
 
+@media (min-width: 544px) {
+  h1, .h1 {
+    font-size: 2rem;
+  }
+}
+
 h2, .h2 {
   font-size: calc(1.325rem + 0.9vw);
 }
