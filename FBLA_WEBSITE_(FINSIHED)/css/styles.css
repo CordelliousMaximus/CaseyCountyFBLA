@@ -7680,6 +7680,20 @@ textarea.form-control-lg {
   text-decoration: none !important;
 }
 
+.contact {
+  margin-bottom: 15px;
+}
+
+
+@media (max-width: 993px) { 
+  .frame {
+    margin-top: 15px;
+  }
+
+  .frame-row {
+    text-align: center;
+  }
+}
 .text-decoration-underline {
   text-decoration: underline !important;
 }
